@@ -53,7 +53,7 @@ h2 span {
 
 h3 span,
 p span {
-  color: #60f1ba;
+  color: #02ff9e;
 }
 
 .banner-info {
@@ -177,7 +177,7 @@ header {
 
 
 .services-img {
-  width: 130px;
+  width:230px;
 }
 
 .tab-content {
@@ -223,7 +223,7 @@ header {
 }
 
 h4 span {
-  color: #7afffe;
+  color: #02ff9e;
   font-size: 30px;
 }
 
@@ -252,5 +252,11 @@ ul {
   width: 400px;
 }
 
+/* slogan */
+.web-2{
+  width: 70%;
+  margin: 0 auto;
+
+}
 
 
